@@ -2,7 +2,7 @@
 #include <string.h> // strcpy
 
 int main(){
-    char s[] = "Hello World!";
+    char s[] = "Hello World!"; // 其实 C 语言编译器在编译的时候，会自动在末尾加上\0
     char *t;
 
     t = s;
