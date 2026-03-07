@@ -23,7 +23,7 @@ Personal C reference Book, diving into the underlying mechanism of C.
 > Learning Goal: Learn about how to make parts to an integrated machine
 
 - [x] Ch9 FileIO
-- [ ] Ch10 typedef
+- [x] Ch10 typedef
 - [ ] Ch13 Scope
 - [ ] Ch14 Types II
 - [ ] Ch15 Types III
