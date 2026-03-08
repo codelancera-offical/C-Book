@@ -2,11 +2,13 @@
 
 Personal C reference Book, diving into the underlying mechanism of C.
 
-# Study Plan
+## Minimal Study Plan
+
+> Knowing when to stop is more important than Hardwork.
 
 - Reference Book: [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
 
-## Vision
+### Vision
 
 > Learning Goal: SetUp Physical Intuition of C mechanism.
 
@@ -18,7 +20,7 @@ Personal C reference Book, diving into the underlying mechanism of C.
 - [ ] Ch12 Manual Memory Allocation
 - [ ] Ch37 Fixed Width Integer Types
 
-## Flow, Chain and Arch
+### Flow, Chain and Arch
 
 > Learning Goal: Learn about how to make parts to an integrated machine
 
@@ -32,7 +34,7 @@ Personal C reference Book, diving into the underlying mechanism of C.
 - [ ] Ch22 Enum
 
 
-## Unconventional Tactics
+### Unconventional Tactics
 
 > Learning Goal: Know about some specific skills to do special things
 
