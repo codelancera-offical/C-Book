@@ -17,7 +17,7 @@ Personal C reference Book, diving into the underlying mechanism of C.
 - [x] Ch7 Strings
 - [x] Ch8 Structs
 - [x] Ch11 Pointers II: Arithmetic and Void Pointer
-- [ ] Ch12 Manual Memory Allocation
+- [x] Ch12 Manual Memory Allocation
 - [ ] Ch37 Fixed Width Integer Types
 
 ### Flow, Chain and Arch

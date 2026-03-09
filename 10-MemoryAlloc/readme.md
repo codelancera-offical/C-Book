@@ -2,5 +2,5 @@
 
 #include <stdlib.h>
 
-- malloc(size_t Bytes)
-- realloc(void *p, size_t BytesOfNewPlace)
+- `malloc(size_t Bytes)`
+- `realloc(void *p, size_t BytesOfNewPlace)`
