@@ -1,0 +1,9 @@
+I suggest,
+Interest is more important than the hardwork.
+So stop right now, do not learn to make you feel uncomfortable.
+
+Simple is enough.
+malloc, realloc is enough for you to use.
+
+Don't learn about calloc and aligned_realloc right now
+Only learn them when you really need them.
