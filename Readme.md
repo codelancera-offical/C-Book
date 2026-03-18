@@ -27,7 +27,7 @@ Personal C reference Book, diving into the underlying mechanism of C.
 - [x] Ch9 FileIO
 - [x] Ch10 typedef
 - [x] Ch13 Scope
-- [ ] Ch14 Types II
+- [x] Ch14 Types II
 - [ ] Ch15 Types III
 - [ ] Ch17* Multifile Projects
 - [ ] Ch19 C Preprocessor
